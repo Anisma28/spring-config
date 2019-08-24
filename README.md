@@ -1,2 +1,3 @@
 # spring-config
-config store
+this is used to store pcf apps config files repo
+
