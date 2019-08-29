@@ -1,2 +1,6 @@
 reservation:
   name: myreservation
+product:
+  status:
+    - "active"
+    - "pending"
